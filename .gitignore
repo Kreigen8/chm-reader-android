@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+**/build/
+**/.cxx/
+local.properties
+signing.properties
+*.jks
+*.keystore
+third_party/chmlib/.git/
+tools/__pycache__/
+private-tests/
+build-*.log
+test-*.log
+dist/
+*.log

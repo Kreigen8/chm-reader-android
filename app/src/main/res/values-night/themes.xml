@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.CHMReader" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#82D5C3</item><item name="colorOnPrimary">#00382F</item>
+        <item name="colorPrimaryContainer">#005144</item><item name="colorOnPrimaryContainer">#A0F2DF</item>
+        <item name="colorSecondaryContainer">#354B43</item><item name="colorOnSecondaryContainer">#D5E8DF</item>
+        <item name="colorSurface">#101D1A</item><item name="colorOnSurface">#DEE5DF</item>
+        <item name="colorOnSurfaceVariant">#BFC9C2</item><item name="colorOutline">#89938C</item>
+        <item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-04T12:28:25.986877+00:00",
+  "title": "Design System: CHM Reader",
+  "extensions": {
+    "colorMeta": {
+      "light-primary": {
+        "role": "primary",
+        "displayName": "Deep teal (light)",
+        "tonalRamp": [
+          "oklch(15% 0.08499 181.64)",
+          "oklch(26% 0.08499 181.64)",
+          "oklch(38% 0.08499 181.64)",
+          "oklch(49% 0.08499 181.64)",
+          "oklch(61% 0.08499 181.64)",
+          "oklch(72% 0.08499 181.64)",
+          "oklch(84% 0.08499 181.64)",
+          "oklch(95% 0.08499 181.64)"
+        ]
+      },
+      "light-on-primary": {
+        "role": "primary",
+        "displayName": "Action text (light)",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(26% 0.00000 0.00)",
+          "oklch(38% 0.00000 0.00)",
+          "oklch(49% 0.00000 0.00)",
+          "oklch(61% 0.00000 0.00)",
+          "oklch(72% 0.00000 0.00)",
+          "oklch(84% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ]
+      },
+      "light-primary-container": {
+        "role": "primary",
+        "displayName": "Mint selection (light)",
+        "tonalRamp": [
+          "oklch(15% 0.08449 178.06)",
+          "oklch(26% 0.08449 178.06)",
+          "oklch(38% 0.08449 178.06)",
+          "oklch(49% 0.08449 178.06)",
+          "oklch(61% 0.08449 178.06)",
+          "oklch(72% 0.08449 178.06)",
+          "oklch(84% 0.08449 178.06)",
+          "oklch(95% 0.08449 178.06)"
+        ]
+      },
+      "light-on-primary-container": {
+        "role": "primary",
+        "displayName": "Selection text (light)",
+        "tonalRamp": [
+          "oklch(15% 0.03948 180.47)",
+          "oklch(26% 0.03948 180.47)",
+          "oklch(38% 0.03948 180.47)",
+          "oklch(49% 0.03948 180.47)",
+          "oklch(61% 0.03948 180.47)",
+          "oklch(72% 0.03948 180.47)",
+          "oklch(84% 0.03948 180.47)",
+          "oklch(95% 0.03948 180.47)"
+        ]
+      },
+      "dark-primary": {
+        "role": "primary",
+        "displayName": "Pale teal (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.08558 178.63)",
+          "oklch(26% 0.08558 178.63)",
+          "oklch(38% 0.08558 178.63)",
+          "oklch(49% 0.08558 178.63)",
+          "oklch(61% 0.08558 178.63)",
+          "oklch(72% 0.08558 178.63)",
+          "oklch(84% 0.08558 178.63)",
+          "oklch(95% 0.08558 178.63)"
+        ]
+      },
+      "dark-on-primary": {
+        "role": "primary",
+        "displayName": "Action text (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.05607 178.07)",
+          "oklch(26% 0.05607 178.07)",
+          "oklch(38% 0.05607 178.07)",
+          "oklch(49% 0.05607 178.07)",
+          "oklch(61% 0.05607 178.07)",
+          "oklch(72% 0.05607 178.07)",
+          "oklch(84% 0.05607 178.07)",
+          "oklch(95% 0.05607 178.07)"
+        ]
+      },
+      "dark-primary-container": {
+        "role": "primary",
+        "displayName": "Forest selection (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.07207 177.09)",
+          "oklch(26% 0.07207 177.09)",
+          "oklch(38% 0.07207 177.09)",
+          "oklch(49% 0.07207 177.09)",
+          "oklch(61% 0.07207 177.09)",
+          "oklch(72% 0.07207 177.09)",
+          "oklch(84% 0.07207 177.09)",
+          "oklch(95% 0.07207 177.09)"
+        ]
+      },
+      "dark-on-primary-container": {
+        "role": "primary",
+        "displayName": "Selection text (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.08449 178.06)",
+          "oklch(26% 0.08449 178.06)",
+          "oklch(38% 0.08449 178.06)",
+          "oklch(49% 0.08449 178.06)",
+          "oklch(61% 0.08449 178.06)",
+          "oklch(72% 0.08449 178.06)",
+          "oklch(84% 0.08449 178.06)",
+          "oklch(95% 0.08449 178.06)"
+        ]
+      },
+      "light-secondary-container": {
+        "role": "secondary",
+        "displayName": "Soft sage (light)",
+        "tonalRamp": [
+          "oklch(15% 0.01425 162.45)",
+          "oklch(26% 0.01425 162.45)",
+          "oklch(38% 0.01425 162.45)",
+          "oklch(49% 0.01425 162.45)",
+          "oklch(61% 0.01425 162.45)",
+          "oklch(72% 0.01425 162.45)",
+          "oklch(84% 0.01425 162.45)",
+          "oklch(95% 0.01425 162.45)"
+        ]
+      },
+      "light-on-secondary-container": {
+        "role": "secondary",
+        "displayName": "Tonal text (light)",
+        "tonalRamp": [
+          "oklch(15% 0.01645 168.26)",
+          "oklch(26% 0.01645 168.26)",
+          "oklch(38% 0.01645 168.26)",
+          "oklch(49% 0.01645 168.26)",
+          "oklch(61% 0.01645 168.26)",
+          "oklch(72% 0.01645 168.26)",
+          "oklch(84% 0.01645 168.26)",
+          "oklch(95% 0.01645 168.26)"
+        ]
+      },
+      "dark-secondary-container": {
+        "role": "secondary",
+        "displayName": "Shaded sage (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.03055 170.24)",
+          "oklch(26% 0.03055 170.24)",
+          "oklch(38% 0.03055 170.24)",
+          "oklch(49% 0.03055 170.24)",
+          "oklch(61% 0.03055 170.24)",
+          "oklch(72% 0.03055 170.24)",
+          "oklch(84% 0.03055 170.24)",
+          "oklch(95% 0.03055 170.24)"
+        ]
+      },
+      "dark-on-secondary-container": {
+        "role": "secondary",
+        "displayName": "Tonal text (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.02351 165.82)",
+          "oklch(26% 0.02351 165.82)",
+          "oklch(38% 0.02351 165.82)",
+          "oklch(49% 0.02351 165.82)",
+          "oklch(61% 0.02351 165.82)",
+          "oklch(72% 0.02351 165.82)",
+          "oklch(84% 0.02351 165.82)",
+          "oklch(95% 0.02351 165.82)"
+        ]
+      },
+      "light-surface": {
+        "role": "neutral",
+        "displayName": "Green paper (light)",
+        "tonalRamp": [
+          "oklch(15% 0.00411 157.18)",
+          "oklch(26% 0.00411 157.18)",
+          "oklch(38% 0.00411 157.18)",
+          "oklch(49% 0.00411 157.18)",
+          "oklch(61% 0.00411 157.18)",
+          "oklch(72% 0.00411 157.18)",
+          "oklch(84% 0.00411 157.18)",
+          "oklch(95% 0.00411 157.18)"
+        ]
+      },
+      "light-on-surface": {
+        "role": "neutral",
+        "displayName": "Ink (light)",
+        "tonalRamp": [
+          "oklch(15% 0.01509 166.18)",
+          "oklch(26% 0.01509 166.18)",
+          "oklch(38% 0.01509 166.18)",
+          "oklch(49% 0.01509 166.18)",
+          "oklch(61% 0.01509 166.18)",
+          "oklch(72% 0.01509 166.18)",
+          "oklch(84% 0.01509 166.18)",
+          "oklch(95% 0.01509 166.18)"
+        ]
+      },
+      "light-on-surface-variant": {
+        "role": "neutral",
+        "displayName": "Muted ink (light)",
+        "tonalRamp": [
+          "oklch(15% 0.01441 153.24)",
+          "oklch(26% 0.01441 153.24)",
+          "oklch(38% 0.01441 153.24)",
+          "oklch(49% 0.01441 153.24)",
+          "oklch(61% 0.01441 153.24)",
+          "oklch(72% 0.01441 153.24)",
+          "oklch(84% 0.01441 153.24)",
+          "oklch(95% 0.01441 153.24)"
+        ]
+      },
+      "light-outline": {
+        "role": "neutral",
+        "displayName": "Quiet outline (light)",
+        "tonalRamp": [
+          "oklch(15% 0.01512 152.39)",
+          "oklch(26% 0.01512 152.39)",
+          "oklch(38% 0.01512 152.39)",
+          "oklch(49% 0.01512 152.39)",
+          "oklch(61% 0.01512 152.39)",
+          "oklch(72% 0.01512 152.39)",
+          "oklch(84% 0.01512 152.39)",
+          "oklch(95% 0.01512 152.39)"
+        ]
+      },
+      "dark-surface": {
+        "role": "neutral",
+        "displayName": "Deep green (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.01925 178.32)",
+          "oklch(26% 0.01925 178.32)",
+          "oklch(38% 0.01925 178.32)",
+          "oklch(49% 0.01925 178.32)",
+          "oklch(61% 0.01925 178.32)",
+          "oklch(72% 0.01925 178.32)",
+          "oklch(84% 0.01925 178.32)",
+          "oklch(95% 0.01925 178.32)"
+        ]
+      },
+      "dark-on-surface": {
+        "role": "neutral",
+        "displayName": "Pale ink (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.01098 149.85)",
+          "oklch(26% 0.01098 149.85)",
+          "oklch(38% 0.01098 149.85)",
+          "oklch(49% 0.01098 149.85)",
+          "oklch(61% 0.01098 149.85)",
+          "oklch(72% 0.01098 149.85)",
+          "oklch(84% 0.01098 149.85)",
+          "oklch(95% 0.01098 149.85)"
+        ]
+      },
+      "dark-on-surface-variant": {
+        "role": "neutral",
+        "displayName": "Muted pale ink (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.01458 155.53)",
+          "oklch(26% 0.01458 155.53)",
+          "oklch(38% 0.01458 155.53)",
+          "oklch(49% 0.01458 155.53)",
+          "oklch(61% 0.01458 155.53)",
+          "oklch(72% 0.01458 155.53)",
+          "oklch(84% 0.01458 155.53)",
+          "oklch(95% 0.01458 155.53)"
+        ]
+      },
+      "dark-outline": {
+        "role": "neutral",
+        "displayName": "Quiet outline (dark)",
+        "tonalRamp": [
+          "oklch(15% 0.01544 155.41)",
+          "oklch(26% 0.01544 155.41)",
+          "oklch(38% 0.01544 155.41)",
+          "oklch(49% 0.01544 155.41)",
+          "oklch(61% 0.01544 155.41)",
+          "oklch(72% 0.01544 155.41)",
+          "oklch(84% 0.01544 155.41)",
+          "oklch(95% 0.01544 155.41)"
+        ]
+      },
+      "document-canvas": {
+        "role": "neutral",
+        "displayName": "Document white",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(26% 0.00000 0.00)",
+          "oklch(38% 0.00000 0.00)",
+          "oklch(49% 0.00000 0.00)",
+          "oklch(61% 0.00000 0.00)",
+          "oklch(72% 0.00000 0.00)",
+          "oklch(84% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "welcome-title": {
+        "displayName": "Welcome Title",
+        "purpose": "Initial library heading."
+      },
+      "section-title": {
+        "displayName": "Section Title",
+        "purpose": "Contents and search headings."
+      },
+      "welcome-body": {
+        "displayName": "Welcome Body",
+        "purpose": "Introductory copy."
+      },
+      "result-title": {
+        "displayName": "Result Title",
+        "purpose": "Search-result names."
+      },
+      "tree-body": {
+        "displayName": "Tree Body",
+        "purpose": "Contents labels; bold when current."
+      },
+      "supporting": {
+        "displayName": "Supporting",
+        "purpose": "Search/status/feedback and support copy."
+      },
+      "metadata": {
+        "displayName": "Metadata",
+        "purpose": "Contents count and bottom current-page label."
+      }
+    },
+    "shadows": [],
+    "motion": [],
+    "breakpoints": [
+      {
+        "name": "persistent-contents",
+        "value": "840dp"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Open CHM",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary welcome action. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<button class=\"ds-primary\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M10,4H2v16h20V6H12zM4,8h16v10H4z\"/></svg><span>Открыть CHM</span></button>",
+      "css": ".ds-primary{font-family:Roboto,Arial,sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 24px;border:0;border-radius:24px;background:#006B5F;color:#FFFFFF;font-size:14px;font-weight:500;cursor:pointer}.ds-primary:hover{filter:brightness(.95)}.ds-primary:focus-visible{outline:2px solid #006B5F;outline-offset:3px}.ds-primary:active{filter:brightness(.88)}"
+    },
+    {
+      "name": "Outlined action",
+      "kind": "button",
+      "refersTo": "button-outlined",
+      "description": "Indexing, cancel and recent-book action. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<button class=\"ds-outlined\">Создать / продолжить индекс</button>",
+      "css": ".ds-outlined{font-family:Roboto,Arial,sans-serif;min-height:48px;padding:0 24px;border:1px solid #707972;border-radius:24px;background:transparent;color:#006B5F;font-size:14px;font-weight:500;cursor:pointer}.ds-outlined:hover{background:#A0F2DF}.ds-outlined:focus-visible{outline:2px solid #006B5F;outline-offset:3px}.ds-outlined:active{background:#DAE5DF}.ds-outlined:disabled{opacity:.38;cursor:default}"
+    },
+    {
+      "name": "Icon action",
+      "kind": "button",
+      "refersTo": "icon-action",
+      "description": "Separate named 48dp action. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<button class=\"ds-icon\" aria-label=\"Открыть CHM\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M10,4H2v16h20V6H12zM4,8h16v10H4z\"/></svg></button>",
+      "css": ".ds-icon{display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;padding:12px;border:0;border-radius:50%;background:transparent;color:#17201C;cursor:pointer}.ds-icon:hover{background:#DAE5DF}.ds-icon:focus-visible{outline:2px solid #006B5F;outline-offset:1px}.ds-icon:active{background:#A0F2DF}"
+    },
+    {
+      "name": "Current contents row",
+      "kind": "nav",
+      "refersTo": "tree-row-current",
+      "description": "Selected hierarchical row with independent expand and page actions. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<div class=\"ds-tree\"><button class=\"ds-tree-expand\" aria-label=\"Развернуть: Руководство\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M8,4l8,8 -8,8 -1.4,-1.4L13.2,12 6.6,5.4z\"/></svg></button><button class=\"ds-tree-title\" aria-current=\"page\">Руководство</button></div>",
+      "css": ".ds-tree{display:flex;align-items:center;min-height:52px;background:#A0F2DF;color:#17201C}.ds-tree-expand{display:flex;align-items:center;justify-content:center;flex:0 0 48px;width:48px;height:48px;padding:12px;border:0;background:transparent;color:inherit;cursor:pointer}.ds-tree-title{font-family:Roboto,Arial,sans-serif;flex:1;text-align:left;min-height:52px;padding:8px 12px 8px 0;border:0;background:transparent;color:inherit;font-size:16px;font-weight:700;cursor:pointer}.ds-tree-expand:hover,.ds-tree-title:hover{background:rgba(23,32,28,.06)}.ds-tree-expand:focus-visible,.ds-tree-title:focus-visible{outline:2px solid #006B5F;outline-offset:-2px}.ds-tree-expand:active,.ds-tree-title:active{background:rgba(23,32,28,.12)}"
+    },
+    {
+      "name": "Outlined search field",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "Single-line search input in a native outlined field. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<label class=\"ds-field\"><span>Название раздела или текст</span><input type=\"search\" aria-label=\"Название раздела или текст\" /></label>",
+      "css": ".ds-field{font-family:Roboto,Arial,sans-serif;display:flex;flex-direction:column;gap:4px;padding:8px 16px;border:1px solid #707972;border-radius:4px;color:#414943;font-size:12px}.ds-field input{font-family:Roboto,Arial,sans-serif;width:100%;border:0;outline:none;background:transparent;color:#17201C;font-size:16px;min-height:28px}.ds-field:hover{border-color:#17201C}.ds-field:focus-within{border-color:#006B5F;outline:1px solid #006B5F;color:#006B5F}"
+    },
+    {
+      "name": "Reader toolbar",
+      "kind": "nav",
+      "refersTo": "toolbar",
+      "description": "Compact toolbar with contents, search and always-visible open. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<nav class=\"ds-toolbar\" aria-label=\"Действия справочника\"><button aria-label=\"Оглавление\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M3,5h18v2H3zM3,11h18v2H3zM3,17h18v2H3z\"/></svg></button><span>CHM Reader</span><button aria-label=\"Поиск\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M9.5,3a6.5,6.5 0,1 0,4.1 11.55L20,21l1,-1 -6.45,-6.4A6.5,6.5 0,0 0,9.5 3M9.5,5a4.5,4.5 0,1 1,0 9a4.5,4.5 0,1 1,0 -9\"/></svg></button><button aria-label=\"Открыть CHM\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M10,4H2v16h20V6H12zM4,8h16v10H4z\"/></svg></button></nav>",
+      "css": ".ds-toolbar{font-family:Roboto,Arial,sans-serif;display:flex;align-items:center;height:64px;background:#F7FAF8;color:#17201C;padding:0 4px;gap:4px}.ds-toolbar>span{flex:1;font-size:22px}.ds-toolbar button{display:flex;align-items:center;justify-content:center;min-width:48px;height:48px;padding:12px;border:0;border-radius:50%;background:transparent;color:inherit;cursor:pointer}.ds-toolbar button:hover{background:#DAE5DF}.ds-toolbar button:focus-visible{outline:2px solid #006B5F}.ds-toolbar button:active{background:#A0F2DF}"
+    },
+    {
+      "name": "Page history",
+      "kind": "nav",
+      "refersTo": "history-navigation",
+      "description": "History arrows, two-line page label and home. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<nav class=\"ds-history\" aria-label=\"История страниц\"><button disabled aria-label=\"Назад по истории\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M20,11H7.8l5.6,-5.6L12,4l-8,8 8,8 1.4,-1.4L7.8,13H20z\"/></svg></button><button aria-label=\"Вперёд по истории\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M4,11h12.2l-5.6,-5.6L12,4l8,8 -8,8 -1.4,-1.4L16.2,13H4z\"/></svg></button><span>Текущий раздел</span><button aria-label=\"Начальная страница\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M3,10L12,2l9,8v12h-7v-8h-4v8H3zM5,11v9h3v-8h8v8h3v-9l-7,-6z\"/></svg></button></nav>",
+      "css": ".ds-history{font-family:Roboto,Arial,sans-serif;display:flex;align-items:center;min-height:48px;padding:0 4px;background:#F7FAF8;color:#17201C}.ds-history>span{flex:1;padding:0 8px 0 12px;font-size:13px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.ds-history button{display:flex;align-items:center;justify-content:center;width:48px;height:48px;padding:12px;border:0;border-radius:50%;background:transparent;color:inherit;cursor:pointer}.ds-history button:hover:enabled{background:#DAE5DF}.ds-history button:focus-visible{outline:2px solid #006B5F}.ds-history button:active:enabled{background:#A0F2DF}.ds-history button:disabled{opacity:.35;cursor:default}"
+    },
+    {
+      "name": "Split resize region",
+      "kind": "custom",
+      "refersTo": "resize-region",
+      "description": "48dp interactive region with centered 1dp outline line; native code provides drag and click resizing. HTML preview approximates the native widget at unit density; Android owns exact text metrics, shape and ripple.",
+      "html": "<button class=\"ds-resize\" aria-label=\"Ширина оглавления. Перетащите или нажмите для изменения\"></button>",
+      "css": ".ds-resize{position:relative;display:block;width:48px;height:160px;padding:0;border:0;background:#F7FAF8;cursor:col-resize}.ds-resize:before{content:\"\";position:absolute;left:50%;top:0;bottom:0;width:1px;background:#707972;transform:translateX(-50%)}.ds-resize:hover{background:#DAE5DF}.ds-resize:focus-visible{outline:2px solid #006B5F;outline-offset:-2px}.ds-resize:active{background:#A0F2DF}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Quiet reading workspace",
+    "overview": "This native Android interface uses Material 3 for the controls around an original technical document. Read and Operate are the guiding surface modes: the document occupies the available reading area, while the contents tree, search, history and settings support deliberate navigation. CHM Sharp is a workflow reference, not an asset source.\n\nThe app chrome is calm, compact and teal. The document retains its own HTML typography, colors, images and tables. These rules describe the implementation in `MainActivity.kt`, `ui/TocAdapter.kt`, `ui/SearchPanel.kt`, `ui/Icons.kt` and the two theme resources. This is a source-based record; Android visual, touch and assistive-technology verification remains outstanding because the emulator did not boot.",
+    "keyCharacteristics": [
+      "Native Material 3 controls with system typography.",
+      "A white WebView canvas and unchanged document colors in both app themes.",
+      "A real contents hierarchy with independent expansion and page actions.",
+      "A phone drawer that becomes an adjustable persistent panel in wide windows."
+    ],
+    "rules": [
+      {
+        "name": "The Document Colors Rule",
+        "body": "App theme changes affect chrome. Preserve the document's colors and disable WebView automatic darkening.",
+        "section": "colors"
+      },
+      {
+        "name": "The Reading Width Rule",
+        "body": "Keep the wide-window reader at least 320dp and preserve the full 48dp splitter interaction region.",
+        "section": "layout"
+      }
+    ],
+    "dos": [
+      "**Do** preserve document HTML colors and the white WebView canvas in both app themes.",
+      "**Do** use native Material 3 controls, system `sans` text and scalable `sp` sizes.",
+      "**Do** keep expansion and page opening separate in the contents hierarchy.",
+      "**Do** maintain 48dp icon actions and splitter region, with at least 320dp for the wide-window reader.",
+      "**Do** show selection with both fill and bold text, and name actions for accessibility.",
+      "**Do** distinguish a partial or incomplete search index from a completed one."
+    ],
+    "donts": [
+      "**Don't** algorithmically invert document pages, technical images or tables for dark app chrome.",
+      "**Don't** relabel history actions as previous/next contents topics.",
+      "**Don't** replace vector action paths with text glyphs or emoji.",
+      "**Don't** introduce custom fonts, radii, shadows or motion tokens without an implemented need.",
+      "**Don't** treat the source-based layout record or sidecar previews as device screenshots or completed visual QA."
+    ]
+  }
+}
